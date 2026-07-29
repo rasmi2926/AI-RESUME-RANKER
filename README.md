@@ -127,29 +127,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after testing.
-
-### Home Page
-
-```
-(Add Screenshot)
-```
-
-### Upload Resume
-
-```
-(Add Screenshot)
-```
-
-### Resume Ranking Result
-
-```
-(Add Screenshot)
-```
-
----
 
 ## 📦 Requirements
 
